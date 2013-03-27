@@ -1,0 +1,21 @@
+=== Titel
+Randomized product list
+
+
+=== Suchbegriffe
+isotope,random,product,lists,sorting
+
+
+=== Teaser
+Display a product list with randomized sorting order.
+
+
+=== Beschreibung
+
+
+=== Freigabe-Notizen und Änderungs-Log
+<p>see manual link</p>
+
+
+=== Handbuch-Link
+https://github.com/backbone87/backboneit_iso_listrandom

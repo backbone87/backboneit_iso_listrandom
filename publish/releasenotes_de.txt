@@ -1,0 +1,21 @@
+=== Titel
+Produktliste mit zufälliger Sortierung
+
+
+=== Suchbegriffe
+isotope,produkt,liste,sortierung,zufällig
+
+
+=== Teaser
+Eine Produktliste mit zufälliger Sortierung darstellen.
+
+
+=== Beschreibung
+
+
+=== Freigabe-Notizen und Änderungs-Log
+<p>siehe Handbuch-Link</p>
+
+
+=== Handbuch-Link
+https://github.com/backbone87/backboneit_iso_listrandom
